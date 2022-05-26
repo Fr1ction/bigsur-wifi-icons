@@ -1,3 +1,6 @@
+# Monterey
+Okay, i will update this icons very soon with exact same icons as in for mac..So this project is back to active.
+
 # bigsur
 Wifi Icons for Hackintosh Bigsur
 This makes the icons in the Realtek StatusBarApp  fit in with OS X bigsur 11.0.1
